@@ -2,3 +2,4 @@ numpy
 scikitlearn
 torch
 matplotlib
+tensorflow
